@@ -24,8 +24,11 @@ Tablet dropdown menu:
 
 
 changes to be made: 
+
 More palatable colours on button hovers and menu.
+
 Centering of text.
+
 Animation menu allowing for a customisable background. 
 
 
