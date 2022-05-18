@@ -1,9 +1,19 @@
 # A fully responsive portfolio website for my web development work and projects.
+
 Current desktop rendition (text still needs centering on this version but works perfectly on mobile/tablet):
 
 
 
 ![image](https://user-images.githubusercontent.com/80924843/169052362-c85c166c-9cce-4308-bfab-2c69beb631f4.png)
+
+
+
+Desktop version with education menu toggled. 
+
+
+
+![image](https://user-images.githubusercontent.com/80924843/169053790-4f16d4a7-ba46-4086-9f9b-e22159151de6.png)
+
 
 
 
