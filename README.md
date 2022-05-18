@@ -17,7 +17,7 @@ Desktop version with education menu toggled.
 
 
 
-Tablet rendition:
+Mobile/tablet rendition:
 
 
 
@@ -25,7 +25,7 @@ Tablet rendition:
 
 
 
-Tablet dropdown menu:
+Mobile/tablet dropdown menu:
 
 
 
