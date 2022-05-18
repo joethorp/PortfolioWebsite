@@ -23,7 +23,7 @@ Tablet dropdown menu:
 
 
 
-changes to be made: 
+Changes to be made: 
 
 More palatable colours on button hovers and menu.
 
